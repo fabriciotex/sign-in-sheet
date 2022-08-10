@@ -6,8 +6,6 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  width: 100%;
-  heigth: 100vh;
 }
 
 .container h1 {
