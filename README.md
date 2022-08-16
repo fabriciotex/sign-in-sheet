@@ -1,4 +1,4 @@
-# Node.js Simple API Example
+# Sign-in Sheet React.js App
 
 This project is a simple sign-in sheet using React.js with an API call.
 
